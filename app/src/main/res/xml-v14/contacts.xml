@@ -1,0 +1,13 @@
+<ContactsAccountType xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!--inviteContactActionLabel="@string/invite_action_label"-->
+    <!--inviteContactActivity="com.example.android.samplesync.activities.InviteContactActivity"-->
+    <!--viewContactNotifyService="com.example.android.samplesync.notifier.NotifierService"-->
+    <!--viewGroupActionLabel="@string/view_group_action_label"-->
+    <!--viewGroupActivity="com.example.android.samplesync.activities.ViewGroupActivity">-->
+    <ContactsDataKind
+        android:detailColumn="data3"
+        android:detailSocialSummary="true"
+        android:icon="@mipmap/ic_launcher"
+        android:mimeType="vnd.android.cursor.item/com.account"
+        android:summaryColumn="data2" />
+</ContactsAccountType>

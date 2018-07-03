@@ -1,0 +1,8 @@
+<ContactsAccountType xmlns:android="http://schemas.android.com/apk/res/android">
+    <ContactsDataKind
+        android:detailColumn="data3"
+        android:detailSocialSummary="true"
+        android:icon="@mipmap/ic_launcher"
+        android:mimeType="vnd.android.cursor.item/com.account"
+        android:summaryColumn="data2" />
+</ContactsAccountType>
